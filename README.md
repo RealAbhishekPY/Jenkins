@@ -45,4 +45,4 @@ Jenkins is a popular open-source automation server used for continuous integrati
 
 ### Summary
 
-Jenkins is a powerful tool for automating the software development lifecycle, offering flexibility, scalability, and a vast ecosystem of plugins. Its architecture and components work together to streamline the process of building, testing, and deploying applications, making it an essential tool for modern DevOps practices[1](https://devopscube.com/jenkins-architecture-explained/)[2](https://www.jenkins.io/doc/book/managing/nodes/)[3](https://cloudwithease.com/what-is-jenkins/).
+Jenkins is a powerful tool for automating the software development lifecycle, offering flexibility, scalability, and a vast ecosystem of plugins. Its architecture and components work together to streamline the process of building, testing, and deploying applications, making it an essential tool for modern DevOps practices[jenkins-architecture-explained](https://devopscube.com/jenkins-architecture-explained/)&&[nodes](https://www.jenkins.io/doc/book/managing/nodes/)&&[what-is-jenkins](https://cloudwithease.com/what-is-jenkins/).
